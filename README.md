@@ -3,11 +3,11 @@ Using multimodal data to construct models for cancer survival prediction is esse
 
 # Dependencies
 This source code requires the key dependencies as follows:
-'''python
+```
 python 3.7.13
 torch==1.7.1
 numpy==1.19.5
-'''
+```
 
 You can run this following command to install additional dependencies.
 
