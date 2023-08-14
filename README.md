@@ -5,7 +5,7 @@ Using multimodal data to construct models for cancer survival prediction is esse
 This source code requires the key dependencies as follows:
 ```
 python 3.7.13
-torch==1.7.1
+torch==1.7.1+cu110
 numpy==1.19.5
 ```
 
